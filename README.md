@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sumit-241
-- 👀 I’m interested in programming and technology and exploring new stuffs.
-- 🌱 I’m currently learning about over the air updates.
-- 📫 wanna contact me---skicholiya2002@gmai.com
+- 👀 I’m interested in programming and new technology.
+- 🌱 I’m currently working on "over the air updates" in vehicles.
+- 📫 contact- kicholiya2002@gmai.com
 
 <!---
 Sumit-241/Sumit-241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
